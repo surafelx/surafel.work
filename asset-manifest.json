@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/surafel.work/static/css/main.8c456c3c.css",
+    "main.js": "/surafel.work/static/js/main.0aa0f38f.js",
+    "static/js/787.d4bda769.chunk.js": "/surafel.work/static/js/787.d4bda769.chunk.js",
+    "index.html": "/surafel.work/index.html",
+    "main.8c456c3c.css.map": "/surafel.work/static/css/main.8c456c3c.css.map",
+    "main.0aa0f38f.js.map": "/surafel.work/static/js/main.0aa0f38f.js.map",
+    "787.d4bda769.chunk.js.map": "/surafel.work/static/js/787.d4bda769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c456c3c.css",
+    "static/js/main.0aa0f38f.js"
+  ]
+}
